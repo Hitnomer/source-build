@@ -7,4 +7,5 @@ for i in range(0,5):
 endTime = time.time()
 elapsedTime = endTime - startTime
 print("Elapsed Time = %s" % elapsedTime)
-print("Adding Enhancements")
+
+print(" Adding Enhancements ")
